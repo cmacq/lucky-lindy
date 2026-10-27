@@ -21,6 +21,8 @@ The workflow runs Jekyll directly through GitHub Pages' official build and deplo
 
 ## Editing
 
+The `/telegrams/` page provides twelve lead-up telegrams from November 3 through May 11, followed by five flight-week cards, all with matching SMS drafts. Edit `_data/leadup_telegrams.json` to update lead-up dates and copy; campaign publish dates and historical chapter dates are separate fields. Set `chapter_event_url` in `_config.yml` to the confirmed EAA129 event page to populate all SMS links and the event button. An empty setting leaves a visible draft notice and link placeholders. SMS delivery requires a separate provider and an opted-in list; this site does not send messages.
+
 Each page is a Markdown file in the repository root and has a stable URL:
 
 - `/` — overview

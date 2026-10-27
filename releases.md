@@ -271,6 +271,10 @@ May 20–21: solo nonstop flight; May 21: landing at Le Bourget, completing the 
 
 ## Calendar notes
 
+**Key-event telegrams:** Twelve [road-to-Paris dispatches and matching SMS drafts]({{ '/telegrams/' | relative_url }}) accompany the November 3, November 17, December 1, December 29, January 12, February 2, February 9, March 2, March 16, April 6, May 4, and May 11 releases. Their publication dates follow this campaign calendar; their historical datelines may refer to earlier events. Each links to the EAA129 event page before the May 20–21 flight series begins.
+
+**Flight-week communications:** Use the [telegram dispatch sequence and SMS drafts]({{ '/telegrams/' | relative_url }}) on May 20–21, 2027: departure watch, takeoff, ocean crossing, Europe, and landing. Pair every dispatch with the EAA129 chapter event-page link. Approve historical timing and the local sending schedule before queuing texts.
+
 - **29 weekly releases** are planned, beginning with the November 3, 2026 launch and ending in the week of May 18, 2027.
 - Historical milestone dates come from the working project brief and need source-ledger review before publication.
 - The November 3 launch introduces the Covell event; Week 12 returns to it in chronological context.

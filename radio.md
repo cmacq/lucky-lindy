@@ -40,6 +40,8 @@ From this week through the centennial, we’ll follow the story one milestone at
 
 ## Production notes
 
+- For May 20–21 chapters, adapt the [telegram dispatches]({{ '/telegrams/' | relative_url }}) as a ground-based wire-desk reading. Introduce them as modern reconstructions, use a brief telegraph sound cue, and direct listeners to the EAA129 chapter event page in the episode description.
+
 - Put “modern dramatization” in the spoken intro when period-style sound or dialogue is used, and in the episode description.
 - Do not invent a Lindbergh radio transmission. The project brief says he did not transmit radio reports from the airplane.
 - Do not invent quotations. Read exact quotations only after verifying their source and rights.

@@ -5,7 +5,9 @@ url: "https://cmacq.github.io"
 theme: minima
 markdown: kramdown
 permalink: pretty
+chapter_event_url: "https://chapters.eaa.org/eaa129/lucky-lindy"
 header_pages:
+  - telegrams.md
   - radio.md
   - social.md
   - video.md

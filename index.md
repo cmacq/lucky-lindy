@@ -16,6 +16,8 @@ The 1927 flight was the **first solo, nonstop flight from New York to Paris**—
 
 ## Choose a team page
 
+**[Telegrams on the road to Paris]({{ '/telegrams/' | relative_url }})** — twelve key-event dispatches from the November 3 launch plus five flight dispatches, with matching SMS drafts that bring readers back to the EAA129 event page.
+
 <div class="card-grid">
   <a class="nav-card" href="{{ '/radio/' | relative_url }}"><span class="card-kicker">Audio lead</span><h3>Radio scripts</h3><p>Launch script, repeatable chapter format, sound and labeling notes.</p><span class="card-link">Open radio page →</span></a>
   <a class="nav-card" href="{{ '/social/' | relative_url }}"><span class="card-kicker">Social lead</span><h3>Social media</h3><p>Ready-to-adapt launch copy, post formats, and an editorial rhythm.</p><span class="card-link">Open social page →</span></a>

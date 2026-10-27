@@ -1,0 +1,62 @@
+[
+  {
+    "id": "launch", "title": "The mail route opens the story", "publish": "November 3, 2026", "history": "November 3, 1926 · Covell-area airmail emergency", "desk": "ILLINOIS AIRMAIL CHAPTER",
+    "message": "AIRMAIL PILOT CHARLES LINDBERGH COMES DOWN BY PARACHUTE NEAR COVELL ILLINOIS STOP BEFORE PARIS THERE WAS THE MAIL ROUTE STOP FOLLOW THE LONG WAY TO PARIS WITH EAA129 STOP",
+    "sms": "AIRMAIL EMERGENCY NEAR COVELL STOP MEET THE PILOT BEFORE PARIS STOP"
+  },
+  {
+    "id": "early-flight", "title": "A first step into aviation", "publish": "November 17, 2026", "history": "1922 · Early flying years, retrospective", "desk": "EARLY FLIGHT CHAPTER",
+    "message": "RETURN TO THE BEGINNING STOP A YOUNG LINDBERGH ENTERS THE WORLD OF FLYING STOP TRAINING AND EXPERIENCE WILL PRECEDE THE ATLANTIC ATTEMPT STOP EXPLORE THE FIRST STEPS STOP",
+    "sms": "BEFORE THE ATLANTIC CAME THE FIRST FLIGHTS STOP EXPLORE THE EARLY YEARS STOP"
+  },
+  {
+    "id": "solo", "title": "Solo in a Jenny", "publish": "December 1, 2026", "history": "1923 · First solo chapter, retrospective", "desk": "FLIGHT TRAINING CHAPTER",
+    "message": "A PILOT TAKES THE CONTROLS ALONE STOP FOLLOW LINDBERGHS FIRST SOLO CHAPTER IN A CURTISS JENNY STOP THE ROAD TO PARIS BEGINS WITH EXPERIENCE EARNED ONE FLIGHT AT A TIME STOP",
+    "sms": "SOLO IN A JENNY STOP FOLLOW THE FIRST SOLO CHAPTER ON THE ROAD TO PARIS STOP"
+  },
+  {
+    "id": "airmail", "title": "The mail becomes a career", "publish": "December 29, 2026", "history": "April 1926 · St. Louis–Chicago airmail chapter, retrospective", "desk": "AIRMAIL ROUTE CHAPTER",
+    "message": "THE MAIL MUST MOVE STOP FOLLOW THE ST LOUIS TO CHICAGO AIRMAIL ROUTE AND LINDBERGHS WORK AS CHIEF PILOT STOP WEATHER NAVIGATION AND NIGHT FLYING SHAPE THE STORY STOP",
+    "sms": "THE MAIL MUST MOVE STOP EXPLORE THE ST LOUIS TO CHICAGO AIRMAIL YEARS STOP"
+  },
+  {
+    "id": "challenge", "title": "The Paris challenge", "publish": "January 12, 2027", "history": "1926 · New York–Paris planning chapter, retrospective", "desk": "PARIS CHALLENGE CHAPTER",
+    "message": "NEW YORK TO PARIS BECOMES THE OBJECTIVE STOP AN OCEAN CROSSING NEEDS MORE THAN A PILOT STOP FOLLOW THE PLANNING AND SUPPORT BEHIND THE ATTEMPT STOP",
+    "sms": "NEW YORK TO PARIS BECOMES THE OBJECTIVE STOP FOLLOW THE PLAN BEHIND THE ATTEMPT STOP"
+  },
+  {
+    "id": "backers", "title": "The people behind the attempt", "publish": "February 2, 2027", "history": "1926–1927 · St. Louis backing and planning, retrospective", "desk": "ST LOUIS BACKERS CHAPTER",
+    "message": "ST LOUIS SUPPORTERS HELP TURN AN IDEA INTO AN ATTEMPT STOP MEET THE PEOPLE BEHIND THE PILOT STOP THE SPIRIT OF ST LOUIS WILL CARRY THEIR CITYS NAME STOP",
+    "sms": "BEHIND ONE PILOT STANDS A TEAM STOP MEET THE ST LOUIS BACKERS STOP"
+  },
+  {
+    "id": "design", "title": "An airplane for the Atlantic", "publish": "February 9, 2027", "history": "February 1927 · Ryan aircraft design chapter, retrospective", "desk": "RYAN DESIGN CHAPTER",
+    "message": "THE ATLANTIC SETS THE DESIGN CHALLENGE STOP RYAN TEAM PREPARES AN AIRPLANE FOR THE NEW YORK TO PARIS ATTEMPT STOP RANGE FUEL AND WEIGHT SHAPE EVERY DECISION STOP",
+    "sms": "AN AIRPLANE FOR THE ATLANTIC STOP EXPLORE THE SPIRITS DESIGN CHALLENGE STOP"
+  },
+  {
+    "id": "builders", "title": "Building the Spirit", "publish": "March 2, 2027", "history": "1927 · Ryan construction chapter, retrospective", "desk": "WORKSHOP CHAPTER",
+    "message": "TURN TO THE WORKSHOP STOP BUILDERS AND MECHANICS BRING SPIRIT OF ST LOUIS INTO BEING STOP FOLLOW THE CRAFT AND COLLABORATION BEHIND THE MACHINE STOP",
+    "sms": "FROM DRAWING TO AIRPLANE STOP MEET THE BUILDERS OF SPIRIT OF ST LOUIS STOP"
+  },
+  {
+    "id": "testing", "title": "The Spirit takes flight", "publish": "March 16, 2027", "history": "April 1927 · San Diego test-flight chapter, retrospective", "desk": "SAN DIEGO TESTING CHAPTER",
+    "message": "BEFORE THE OCEAN COMES THE TEST FLIGHT STOP SPIRIT OF ST LOUIS TAKES TO THE AIR IN SAN DIEGO STOP EXPLORE HOW TESTING PREPARES AN AIRPLANE FOR THE LONG JOURNEY STOP",
+    "sms": "BEFORE THE OCEAN COMES THE TEST FLIGHT STOP FOLLOW THE SPIRITS TESTING CHAPTER STOP"
+  },
+  {
+    "id": "cross-country", "title": "West to east", "publish": "April 6, 2027", "history": "May 10–11, 1927 · Cross-country flight chapter, retrospective", "desk": "CROSS COUNTRY CHAPTER",
+    "message": "SPIRIT OF ST LOUIS FLIES EAST FROM SAN DIEGO STOP ST LOUIS IS A STOP ON THE WAY TO NEW YORK STOP FOLLOW THE JOURNEY THAT BRINGS AIRPLANE AND PILOT CLOSER TO THE ATLANTIC STOP",
+    "sms": "WEST TO EAST STOP FOLLOW THE SPIRITS JOURNEY TOWARD NEW YORK VIA ST LOUIS STOP"
+  },
+  {
+    "id": "weather", "title": "Waiting at Roosevelt Field", "publish": "May 4, 2027", "history": "May 1927 · Departure preparations, retrospective", "desk": "ROOSEVELT FIELD PREPARATION CHAPTER",
+    "message": "NEW YORK IS THE STARTING POINT STOP WEATHER AND PREPARATIONS SHAPE THE WAIT AT ROOSEVELT FIELD STOP FOLLOW THE DECISIONS BEFORE THE NONSTOP ATTEMPT STOP",
+    "sms": "WAITING AT ROOSEVELT FIELD STOP WEATHER AND PREPARATIONS SHAPE THE NEXT STEP STOP"
+  },
+  {
+    "id": "countdown", "title": "The crossing approaches", "publish": "May 11, 2027", "history": "May 1927 · Final preparation chapter, retrospective", "desk": "CENTENNIAL COUNTDOWN DESK",
+    "message": "THE STORY APPROACHES THE ATLANTIC STOP REVISIT THE PILOT THE AIRPLANE AND THE PEOPLE BEHIND THE ATTEMPT STOP FOLLOW OUR MAY TWENTY AND TWENTY ONE CENTENNIAL DISPATCHES STOP",
+    "sms": "THE CROSSING APPROACHES STOP FOLLOW THE MAY 20 AND 21 CENTENNIAL FLIGHT DISPATCHES STOP"
+  }
+]

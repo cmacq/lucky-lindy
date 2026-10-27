@@ -8,6 +8,8 @@ description: Adaptable launch copy and a repeatable social rhythm that earns att
 
 ## Campaign approach
 
+Use the [centennial telegram desk]({{ '/telegrams/' | relative_url }}) for period-style communications from November 3 through the crossing. It includes twelve key-event dispatches and five flight dispatches, each with a matching SMS draft. Every text should carry the reconstruction label and link to the EAA129 chapter event page for the story, sources, and event invitation. Keep campaign publication dates distinct from the historical dates being retold.
+
 Lead with the surprising Illinois airmail story, then make the campaign identity clear immediately. Curiosity is welcome; a staged post must not look like an actual present-day crash report or authentic archival news. Label reenactments in the creative and caption, and pivot quickly to the documented history.
 
 ## Launch copy · Facebook / Instagram
@@ -27,6 +29,7 @@ Lead with the surprising Illinois airmail story, then make the campaign identity
 ## Weekly post formats
 
 - **This week in the story:** one milestone, date, source note, and link.
+- **From the telegram desk:** a short uppercase dispatch with STOP punctuation, a visible modern-reconstruction label, and the EAA129 event-page link. Use ground-based storytelling during the flight; never invent airborne messages.
 - **Map move:** add one verified point to the route map and ask what the location tells us.
 - **One decision:** invite audiences to consider a design or navigation tradeoff, then reveal the historical context.
 - **People behind the flight:** spotlight mechanics, backers, route workers, or other aviators, with sources.
