@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}"><span class="brand-mark">1927</span><span>THE LONG WAY<br>TO PARIS</span></a>
+        <nav aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Overview</a>
+          <a href="{{ '/radio/' | relative_url }}">Radio</a>
+          <a href="{{ '/social/' | relative_url }}">Social</a>
+          <a href="{{ '/video/' | relative_url }}">YouTube & Reels</a>
+          <a href="{{ '/releases/' | relative_url }}">Weekly releases</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="page-shell">
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+      <article class="content">{{ content }}</article>
+    </main>
+    <footer class="site-footer"><div class="footer-inner"><span>Charles Lindbergh Centennial · November 2026–May 2027</span><span>Historical storytelling with sources, context, and clear labels.</span></div></footer>
+  </body>
+</html>

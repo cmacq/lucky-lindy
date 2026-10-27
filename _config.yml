@@ -1,0 +1,12 @@
+title: Lucky Lindy: The Long Way to Paris
+description: Follow the story from the mail route to the Atlantic, one milestone at a time.
+baseurl: "/lucky-lindy"
+url: "https://cmacq.github.io"
+theme: minima
+markdown: kramdown
+permalink: pretty
+header_pages:
+  - radio.md
+  - social.md
+  - video.md
+  - releases.md
